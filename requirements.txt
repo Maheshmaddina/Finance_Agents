@@ -1,0 +1,17 @@
+# Core (all six bank tools)
+openai>=2.0
+openai-agents>=0.24
+yfinance>=0.2.50
+financetoolkit>=2.0
+chromadb>=1.0
+pydantic>=2.7
+pandas>=2.0
+python-dotenv>=1.0
+ddgs>=9.0          # free news search for Lab 2E (no key)
+streamlit>=1.40    # web page (app.py)
+pytest>=8.0
+
+# Optional extras — install only if you want them:
+#   Lab 1A native Gemini comparison:  pip install google-genai
+#   Lab 1A Llama comparison:          pip install transformers torch accelerate   (GPU + HF_TOKEN)
+#   Lab 2D ReAct agent:               pip install llama-index llama-index-llms-openai llama-index-llms-openai-like

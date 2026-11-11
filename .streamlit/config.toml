@@ -1,0 +1,25 @@
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F5F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F172A"
+borderColor = "#E2E8F0"
+showWidgetBorder = true
+baseRadius = "0.75rem"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+headingFont = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+codeFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+
+[theme.sidebar]
+backgroundColor = "#0B1F3A"
+secondaryBackgroundColor = "#13294B"
+textColor = "#E2E8F0"
+borderColor = "#1E3A5F"
+primaryColor = "#2DD4BF"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
